@@ -1,4 +1,4 @@
 # JavaScript
 ### Running javascript in node.js
-* Use Node.js command prompt
-* Type: node /<PATH/filename.js/>
+1. Use Node.js command prompt
+2. Type: node /<PATH/filename.js/>
