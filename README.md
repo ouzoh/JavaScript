@@ -3,4 +3,4 @@
 1. Use Node.js command prompt
 2. Type: **node \<PATH/filename.js\>**
 
-Use console.log(*var*) to print output
+Use console.log(***var***) to print output
